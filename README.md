@@ -13,7 +13,7 @@ allowing the HR department to have the control of the teams and new hires.
 - Java web Interface 
 
 ### Note: You can find more about this project in my Blog Community
- BLOG: https://dev.to/franklinholguin 
+[BLOG Link](https://dev.to/franklinholguin/employee-management-system-project-for-practice-36mn)
 
 ** Next Steps for the project ** 
 
